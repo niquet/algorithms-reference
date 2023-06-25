@@ -33,7 +33,7 @@ Inside this directory, you will find implementations of various data structures.
 Feel free to explore the different data structure implementations and learn from their explanations and code. You can also contribute to this repository by adding new data structures or improving existing implementations.
 
 ### [Elementary Data Structures]()
-- [Stacks](./elementary-data-structures.md/stacks)
+- [Stacks](./elementary-data-structures#stacks)
 - [Queues]()
 - [Linked Lists]()
 - [Pointers]()
